@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://127.0.0.1/">
+  <channel>
+    <title>Bookish Blog</title>
+    <link>http://127.0.0.1/</link>
+    <description>My personal blog</description>
+    <language>id</language>
+    
+    <item>
+  <title>Pemanfaatan Perangkat Pengolah Kata</title>
+  <link>http://127.0.0.1/blog/pemanfaatan-perangkat-pengolah-kata</link>
+  <description>Link to cara-menghubungkan-antar-text-box-di-word-2013 headingCara Menghubungkan Antar Text Box Di Word 2013Pada surat kabar atau majalah, biasanya beberapa cuplikan artikel dimulai di halaman pertama dan artikel penuhnya dilanjutkan di halaman lainnya. Anda juga bisa melakukan hal tersebut di Word 2013.</description>
+  <pubDate>Sab, 18 Jun 22 07:56:10 +0700</pubDate>
+    <dc:creator>Your Name</dc:creator>
+    <guid isPermaLink="false">16e8d2f5-3b07-4cdc-9488-21d6108e719f</guid>
+    </item>
+<item>
+  <title>Learning to ride moose</title>
+  <link>http://127.0.0.1/blog/learning-ride-moose</link>
+  <description>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial.</description>
+  <pubDate>Sab, 18 Jun 22 06:30:46 +0700</pubDate>
+    <dc:creator>Your Name</dc:creator>
+    <guid isPermaLink="false">a2bc2bbc-dae2-429f-b0f7-22420aeed221</guid>
+    </item>
+<item>
+  <title>If monkeys can take baths, so can you</title>
+  <link>http://127.0.0.1/blog/if-monkeys-can-take-baths-so-can-you</link>
+  <description>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial.</description>
+  <pubDate>Sab, 18 Jun 22 06:30:45 +0700</pubDate>
+    <dc:creator>Your Name</dc:creator>
+    <guid isPermaLink="false">bda652a5-d227-45da-bf40-590c19ecb4b1</guid>
+    </item>
+<item>
+  <title>A day at the Japanese Garden</title>
+  <link>http://127.0.0.1/blog/day-japanese-garden</link>
+  <description>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial.</description>
+  <pubDate>Sab, 18 Jun 22 06:30:43 +0700</pubDate>
+    <dc:creator>Your Name</dc:creator>
+    <guid isPermaLink="false">9790be74-b65d-4585-a7f5-e89bd331f91c</guid>
+    </item>
+<item>
+  <title>Images just can't describe it</title>
+  <link>http://127.0.0.1/blog/images-just-cant-describe-it</link>
+  <description>Bitters brunch selvage celiac migas cred salvia flannel ethical gluten-free pop-up. Succulents photo booth authentic, skateboard tousled vinyl hell of single-origin coffee aesthetic chia farm-to-table gentrify pop-up affogato tattooed. Readymade lo-fi 90's asymmetrical hoodie, yr intelligentsia synth unicorn single-origin coffee edison bulb put a bird on it next level. Neutra godard master cleanse whatever tilde, copper mug before they sold out photo booth shoreditch pinterest next level snackwave sartorial.</description>
+  <pubDate>Sab, 18 Jun 22 06:30:42 +0700</pubDate>
+    <dc:creator>Your Name</dc:creator>
+    <guid isPermaLink="false">f32ad4cd-e00c-4b2a-8ab7-f1f7c301ddd3</guid>
+    </item>
+
+  </channel>
+</rss>
